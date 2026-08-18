@@ -64,7 +64,7 @@ if (bookingForm) {
         Please confirm this appointment with the customer.
         `;
 
-        const whatsappNumber = "233240000000";
+        const whatsappNumber = "233246265008";
 
         const whatsappURL =
             `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
